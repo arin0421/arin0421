@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 <div align=center><h2>📚 STACKS</h2></div>
 
 
-<div align=center>✨used as the main</div>
+<div align=center><h5>✨used as the main</h5></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <br>
   <br>
   
-  <div align=center>✨used at least once</div>
+  <div align=center><h5>✨used at least once</h5></div>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
